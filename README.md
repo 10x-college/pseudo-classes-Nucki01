@@ -93,8 +93,7 @@
 ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში, კოდის ფაილებთან ერთად.
 
 ჩასვით სურათი README.md ფაილში.
-https://github.com/10x-college/pseudo-classes-Nucki01/blob/main/preview.png
-
+("https://github.com/10x-college/pseudo-classes-Nucki01/blob/main/preview.png")
 ✅ მიღების კრიტერიუმები (Acceptance Criteria)
 
 
